@@ -1,6 +1,13 @@
 # study-mate-sql!
 College Study Mate is a database system designed to support an academic platform that connects students with tutors, organizes study materials, and facilitates collaborative learning. The SQL database is structured to efficiently handle user data, manage relationships between different entities, and ensure the platform is scalable and flexible for future enhancements.
 
+Key Skills used:
+
+MySQL Workbench: For designing, modeling, and managing the database schema.
+DataGrip: For advanced SQL querying, debugging, and seamless database interaction.
+AWS: To host the database in a secure, scalable, and highly available cloud environment.
+Jira: For project management, task tracking, and team collaboration.
+
 Key Features:
 Users Table:
 
