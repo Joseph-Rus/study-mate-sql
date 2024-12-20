@@ -3,45 +3,45 @@ College Study Mate is a database system designed to support an academic platform
 
 Key Skills used:
 
-MySQL Workbench: For designing, modeling, and managing the database schema.
-DataGrip: For advanced SQL querying, debugging, and seamless database interaction.
-AWS: To host the database in a secure, scalable, and highly available cloud environment.
-Jira: For project management, task tracking, and team collaboration.
+  MySQL Workbench: For designing, modeling, and managing the database schema.
+  DataGrip: For advanced SQL querying, debugging, and seamless database interaction.
+  AWS: To host the database in a secure, scalable, and highly available cloud environment.
+  Jira: For project management, task tracking, and team collaboration.
 
 Key Features:
 Users Table:
 
-Stores student and tutor profiles.
-Includes fields like user_id (primary key), name, email, and role (student/tutor).
-Designed for user authentication and personalization.
-Tutors Table:
-
-Contains details about tutors, such as tutor_id (linked to user_id as a foreign key), expertise, and availability.
-Facilitates the connection of students to subject-specific tutors.
-Courses Table:
-
-Maintains information on available courses, including course codes, titles, and descriptions.
-Enables users to find and enroll in relevant study materials or sessions.
-Study Materials Table:
-
-Tracks uploaded resources such as PDFs, notes, and videos.
-Linked to user_id to identify contributors.
-Supports tagging and categorization for easy searching.
-Schedules Table:
-
-Manages tutoring session bookings and study group schedules.
-Tracks user_id, tutor_id, date, and time to organize sessions efficiently.
-Relationships and Efficiency:
-
-The database uses foreign keys to maintain relationships between tables, such as linking tutors to courses and users to study materials.
-Normalization ensures that the structure avoids redundancy and enhances data integrity.
-Key Functionalities:
-
-User registration and profile management.
-Resource uploads and tagging for study materials.
-Scheduling and booking for tutoring sessions or group studies.
-Filtering and searching for courses, tutors, or study materials.
-This SQL database is designed to provide a seamless experience for students and tutors while maintaining flexibility for future platform growth.
+  Stores student and tutor profiles.
+  Includes fields like user_id (primary key), name, email, and role (student/tutor).
+  Designed for user authentication and personalization.
+  Tutors Table:
+  
+  Contains details about tutors, such as tutor_id (linked to user_id as a foreign key), expertise, and availability.
+  Facilitates the connection of students to subject-specific tutors.
+  Courses Table:
+  
+  Maintains information on available courses, including course codes, titles, and descriptions.
+  Enables users to find and enroll in relevant study materials or sessions.
+  Study Materials Table:
+  
+  Tracks uploaded resources such as PDFs, notes, and videos.
+  Linked to user_id to identify contributors.
+  Supports tagging and categorization for easy searching.
+  Schedules Table:
+  
+  Manages tutoring session bookings and study group schedules.
+  Tracks user_id, tutor_id, date, and time to organize sessions efficiently.
+  Relationships and Efficiency:
+  
+  The database uses foreign keys to maintain relationships between tables, such as linking tutors to courses and users to study materials.
+  Normalization ensures that the structure avoids redundancy and enhances data integrity.
+  Key Functionalities:
+  
+  User registration and profile management.
+  Resource uploads and tagging for study materials.
+  Scheduling and booking for tutoring sessions or group studies.
+  Filtering and searching for courses, tutors, or study materials.
+  This SQL database is designed to provide a seamless experience for students and tutors while maintaining flexibility for future platform growth.
 
 
 https://github.com/user-attachments/assets/3d486ed1-9caa-4cdb-ae56-b53a9bd367c7
