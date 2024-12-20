@@ -3,7 +3,7 @@ College Study Mate is a database system designed to support an academic platform
 
 Preview:
 
-![Uploading image.png…]()
+![Screenshot 2024-12-11 124844](https://github.com/user-attachments/assets/1e45878e-ffd4-4cf1-809e-f372051eb065)
 
 
 
