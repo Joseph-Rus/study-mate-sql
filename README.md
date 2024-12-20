@@ -1,5 +1,10 @@
 # study-mate-sql!
-College Study Mate is a database system designed to support an academic platform that connects students with tutors, organizes study materials, and facilitates collaborative learning. The SQL database is structured to efficiently handle user data, manage relationships between different entities, and ensure the platform is scalable and flexible for future enhancements.
+College Study Mate is a database system designed to support an academic platform that connects students with tutors, organizes study materials, and facilitates collaborative learning. The SQL database is structured to efficiently handle user data, manage relationships between different entities, and ensure the platform is scalable and flexible for future enhancements. I am working on the front end of the website, and for that, I am using React and Node.js, among others.
+
+Preview:
+
+![main home page](https://github.com/user-attachments/assets/dff61371-6779-48b8-8da1-388da44a6a61)
+
 
 Key Skills used:
 
